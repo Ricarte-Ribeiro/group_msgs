@@ -7,4 +7,4 @@ float64             sy
 float64             reliability
 string[]            tagnames
 string[]            tags
-
+bool		    ospace

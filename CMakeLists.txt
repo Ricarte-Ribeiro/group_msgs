@@ -5,7 +5,6 @@ find_package(catkin REQUIRED COMPONENTS geometry_msgs message_generation std_msg
 add_message_files(
    DIRECTORY msg
    FILES
-    Groups.msg
     People.msg
     Person.msg
     PersonStamped.msg
